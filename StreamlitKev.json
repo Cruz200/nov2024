@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skilful-tape-442217-s8",
+  "private_key_id": "08ad8c02f4ff74f45f821e6ed99fa928923b0398",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCg4igv5l9sAxmI\nQm4ow0hxN6WRJlHt3GvY6oyqAFgsZBqANaoOlR7cKop+iaMerx2ZrjhSStRiReFF\noasQ35ac3sc6uYOS3S+XNqJyiNkBm1FzJzuiY7aZdvExX9ztPqjzeot8LAoxno8Y\neZ5XO/OD0UK4WO2w0BQ5uVXq0PTeAxdc3t9bUZEQcVSCxShJgJibHsWCOt97wi0t\n+rXUJmB3FK3eXnQ+MPf2t+VQYIRJ+k4jpljvtqt5A77bj7jCgKnpFhHYoxdmI1FP\nGogXqSXigq9OUL/YL5SVsP2inoxKEYF5zXHufI4R1cN668U3UKHZXJj4I6a/PYuP\nWSgGsgxNAgMBAAECggEAROPyr2gnThoZscY4Y44TlB9u7zOIe6EaMT1mVFlnaELJ\nMkNIeYwTNdWljj+jsLztoOQATASs4xPnPajXlpcXaD7g8t2DYL0D5u1HLGI7Ajwe\n6X9QQt4Nz7Ml3q2c7Z4aPIAqAFbfWpX50lIpolMSmExgFI5H4aGIN5uMFcu6PuJI\nLemgYcEtZvl+bFqmJJGWrOoS1lYBjxrC6zjTjh8wHsLWgnczorcmU7yB980BWMmH\ntJ3M2CJ9VkaEcdBRBA28kPN7mHS/KeI5XsEqakIAyZ8YyQfaGfIrRlmGwKL8iwjM\nXtcvv6UHL5o03KeIX59p/L+Wry4UBcHBlV61XrhsZQKBgQDLL26GkqOuVLmIL3g1\nst1fahzVObgGPq7vlYivzRRr26g6wxlxtY2kFDB8CAq0ZThy5IqH+eT8Na+YwmSj\nEfshQh9j/LgPSEbfHG0ML2UBACX7T1gWm6Yzqs0mirygWIzxzSlb4bz6QPt99vZ/\njfrhcoj6xB5yeEtuI0APx4HuXwKBgQDKs9SwlTcOhzhKq8uwUmMCUzyiSu4SzKq3\neqd5K4/SvtiVUlWoQDMTtdcUS81Lh8rtvHQ5xsNXCwbpn5Qz8edUI0Xt0PfaIA5a\nH9N3xWDqXi468QR5KeNb9+/Oyl0B9JbEBYhy/6/szruPwRelEg1Z5tNw0lva+unD\nz/wiOQXs0wKBgAIeFW3Lm28WrPRRYlRU79+tsG08c8GE57fRfCIw5fSVznQGUn6P\n4NED8NlqEAp/P45a+WKfZRaHzLOv2vKkHlTjZoZZPOXT4AE1P6Gv4MKY6MxssENU\nDfBd6FNtgLe/FID0nWi6uoh1IunWKA1+Qk4VLn5GivawcEDOlz1S2/TLAoGBALzs\nYv259TirOwINoKjUAMe4ALlakQ4gh7S+sryypzfK/F4gAQnx3CkwwCeAhvUwuShf\nDwySfpnwAx9Xxm+rtOmsfo6qx3cbjYTeSOBGrI+D/B6faIXtTqT3LyFTZuBdsO8+\nIPDd8oAKJrJTS9BkROFXzBZJWad9WMdSYDMdZrJVAoGAQvKSvEtLDE6C0rcP0hTP\nb2FaA+G7MfAlB91MzmtPYDjfXCWtMEdtXNSXeJJqgrmt3gL0FLziyJJg91tFRsET\nqcd8yD0jQ+ZkN+QRRY4prpcEfEAkTSG+F0nvtM+W62TpEg5L3HAt9xXmN+2GryoI\nG2Z84MVwQo+2xv5ifyjojIo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-app@skilful-tape-442217-s8.iam.gserviceaccount.com",
+  "client_id": "116161503497653630954",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-app%40skilful-tape-442217-s8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
